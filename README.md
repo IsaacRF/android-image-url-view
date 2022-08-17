@@ -1,2 +1,2 @@
 # ImageUrlView
-ImageUrlView component that allows to directly see images in a component without programmatic load. Also supports loading spinners and events
+ImageUrlView component that allows to directly asynchronously load images from an URL in a view without programmatic load. Also supports loading spinners and events.
